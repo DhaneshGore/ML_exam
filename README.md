@@ -25,10 +25,10 @@ solver: liblinear
 
 ### Metrics
 
-Accuracy: 0.80
-Precision: 0.85
-Recall: 0.83
-F1 Score: 0.84
+#### Accuracy: 0.80
+#### Precision: 0.85
+#### Recall: 0.83
+#### F1 Score: 0.84
 
 These metrics were logged and visualized in MLflow for easy comparison with other runs.
 
